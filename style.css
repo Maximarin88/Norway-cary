@@ -34,6 +34,7 @@ li {
   width: 350px;
   background-color: blueviolet;
   margin: 0 auto ;
+  border-radius: 30px;
 }
 
 .link01 {
